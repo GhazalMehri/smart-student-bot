@@ -11,7 +11,7 @@ import sqlite3
 from datetime import datetime
 import jdatetime
 
-TOKEN = "8955034508:AAEshhkmujcB2MTUx89VK42Uz-pdIucnAiM"
+TOKEN = "YOUR_BOT_TOKEN"
 
 # ================= DATABASE =================
 
